@@ -1,2 +1,4 @@
 git練習用
 変更テスト
+・git add
+・git commit
